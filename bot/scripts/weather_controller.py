@@ -74,7 +74,7 @@ class WeatherController:
             conditions= XML(data).find("current_condition").find("weatherDesc").text
             icon = WeatherController.get_icon(str.lower(conditions))
             if int(feels_like) != int(temp):
-                return "Winnipeg is currently :zacefron: "+temp+"C but feels like :theotherzacefron: "+feels_like+"C and conditions are "+conditions+" "+icon
+                return "Winnipeg is currently :moe_moe: "+temp+"C but feels like :zacefron: "+feels_like+"C and conditions are "+conditions+" "+icon
             else:
-                return "Winnipeg is currently :zacefron: "+temp+"C and conditions are "+conditions+" "+icon
+                return "Winnipeg is currently :moe_moe: "+temp+"C and conditions are "+conditions+" "+icon
     get_weather = staticmethod(get_weather)

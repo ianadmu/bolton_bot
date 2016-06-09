@@ -181,7 +181,7 @@ class Messenger(object):
         time3 = time1 - time2
         self.send_message(channel_id, time1.__str__() +" "+ time2.__str__() + " "+ time3.__str__())
         self.send_message(channel_id,"945 :sunny: time now is " + datetime.now().strftime('%H:%M'))
-        self.send_message(channel_id,"/digg editions")
+        self.send_message(channel_id,"What's news?")
 
     def write_error(self, channel_id, err_msg):
         txt = ":face_with_head_bandage: my maker didn't handle this error very well:\n>```{}```".format(err_msg)
