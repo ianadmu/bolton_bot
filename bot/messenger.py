@@ -63,7 +63,7 @@ class Messenger(object):
             "> `hungry | feed` - Have some food courtesy of moi :banana:",
             "> `Fuck this` - You're referring to OS, aren't you? Don't worry I got just the video. :+1:",
             "> `Do it` - Need some motivation? This vid should do the trick :sunglasses:"]
-        txt = "I'm Zac Efron.  I'll *_respond_* to the following {0} commands:\n".format(len(help_txt))
+        txt = "I'm Bolton Efron.  I'll *_respond_* to the following {0} commands:\n".format(len(help_txt))
         for val in range(len(help_txt)):
             txt += help_txt[val]
             txt += '\n'
