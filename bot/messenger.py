@@ -128,9 +128,9 @@ class Messenger(object):
         txt = ':joy: _CRYING INTO MY TEA_ :joy:'
         self.send_message(channel_id, txt)
 
-    def write_wiener(self, channel_id):
+    def write_adobo(self, channel_id):
         self.clients.send_user_typing_pause(channel_id)
-        txt = 'I AM A WIENER!!! :eggplant: ...jk that\'s Steven'
+        txt = 'Leon cook me adobo!!! :adobo:'
         self.send_message(channel_id, txt)
 
     def write_prompt(self, channel_id):

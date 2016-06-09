@@ -62,8 +62,8 @@ class RtmEventHandler(object):
             if re.search('cry|Cry|CRY|crying|Crying|CRYING', msg_txt.lower()):
                 self.msg_writer.write_crying_into_my_tea(event['channel'])
 
-            if 'wiener' in msg_txt.lower():
-                self.msg_writer.write_wiener(event['channel'])
+            if 'adobo' in msg_txt.lower():
+                self.msg_writer.write_adobo(event['channel'])
 
             if re.search('boyer', msg_txt.lower()):
                 self.msg_writer.write_boyer_bot(event['channel'])
