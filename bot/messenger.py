@@ -189,7 +189,8 @@ class Messenger(object):
 
     def write_no_qbot(self, channel_id):
         self.clients.send_user_typing_pause(channel_id)
-        txt = 'I\'m no Qbot but...'
+        responses = ['Always...', 'Ummm, how \'bout no.', 'ay sus', '_le shrug_ \'k.', 'No. Never. Nope. Nu-uh.']
+        txt = '{}'.format(random.choice(responses))
         self.send_message(channel_id, txt)
 
     def write_fuck_this(self, channel_id):
