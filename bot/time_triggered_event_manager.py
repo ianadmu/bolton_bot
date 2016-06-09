@@ -36,7 +36,7 @@ class TimeTriggeredEventManager(object):
         self.clients.send_time_triggered_msg('#bolton-testing', msg)
 
     def trigger_random(self):
-        channels = ['heliwolves', 'spamalot', 'random']
+        channels = ['heliwolves', 'general', 'random']
         channel = '#{}'.format(random.choice(channels)) 
         tree = ET.parse(os.path.join('./resources', 'random_comments.xml'))
         root = tree.getroot()
@@ -67,7 +67,7 @@ class TimeTriggeredEventManager(object):
         self.clients.send_time_triggered_msg('#boltonsexybutt-co', txt)
 
     def trigger_drunk_phrase(self):
-        channels = ['boltonsexybutt-co', 'spamalot', 'random']
+        channels = ['boltonsexybutt-co', 'general', 'random']
         channel = '#{}'.format(random.choice(channels)) 
         random_custom_emoji = self.clients.get_random_emoji()
         drunk_comments_file = open(os.path.join('./resources', 'drunk_comments.txt'), 'r')
@@ -97,7 +97,7 @@ class TimeTriggeredEventManager(object):
         'Today\'s mochaccino is like an angel pooped out a nice hot cup of coffee mmmmm~', 'Mochaccino status: passable',
         'MOCHACCINO MOCHACCINO MOCHACCINO!!!', 'Who\'s ready for a nice cup o\' mochaccino?', '_le mochaccino_']
         txt = '<!{}> {} :coffee:'.format(random.choice(tag_users), random.choice(msgs))
-        self.clients.send_time_triggered_msg('#heliwolves-announce', txt)
+        self.clients.send_time_triggered_msg('#general', txt)
 
     def trigger_timed_event(self):
         #get date and time
