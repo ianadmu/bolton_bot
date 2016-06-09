@@ -59,7 +59,7 @@ class SlackClients(object):
 
     def upload_file_to_slack(self): 
     	my_file = os.path.join('./resources', 'pokemon_correct.txt')  #files = {'file': open('test.png', 'rb')}
-    	self.web.files.upload(my_file, channels='#zacefron-testing')
+    	self.web.files.upload(my_file, channels='#bolton-testing')
     	#file = response['file'].items()
     	#self.rtm.api_call('chat.postMessage', as_user='true:', channel='#zacefron-testing', text=response)
     	#self.rtm.api_call('files.upload', filename='pokemon_correct.txt', file=open(os.path.join('./resources', 'pokemon_correct.txt'), 'rb'), channels='#zacefron-testing')
@@ -67,7 +67,7 @@ class SlackClients(object):
     def get_file_info(self): 
     	response = self.rtm.api_call('files.info', file='F19NX4WJD')
     	files = response['file'].items()
-    	self.rtm.api_call('chat.postMessage', as_user='true:', channel='#zacefron-testing', text=files[16][0])
+    	self.rtm.api_call('chat.postMessage', as_user='true:', channel='#bolton-testing', text=files[16][0])
     	response2 = self.rtm.api_call('users.info', user='U15FDSK5M')
     	user_info = response2['user'].items()
-    	self.rtm.api_call('chat.postMessage', as_user='true:', channel='#zacefron-testing', text=user_info[0][2])
+    	self.rtm.api_call('chat.postMessage', as_user='true:', channel='#bolton-testing', text=user_info[0][2])

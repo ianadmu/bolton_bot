@@ -80,10 +80,10 @@ class RtmEventHandler(object):
             if re.search('do it', msg_txt.lower()):
                 self.msg_writer.write_do_it(event['channel'])
                 
-            if msg_txt.lower().startswith('zac translate') and msg_txt.lower().endswith(' to french'):
+            if msg_txt.lower().startswith('Bolton translate') and msg_txt.lower().endswith(' to french'):
                 self.msg_writer.write_to_french(event['channel'], msg_txt)
 
-            if re.search(' ?(Z|z)ac', msg_txt.lower()) or self.clients.is_bot_mention(msg_txt) or re.search('qbot', msg_txt.lower()):
+            if re.search(' ?(B|b)olton', msg_txt.lower()) or self.clients.is_bot_mention(msg_txt) or re.search('qbot', msg_txt.lower()):
                 # e.g. user typed: "@pybot tell me a joke!"
                 if 'help' in msg_txt.lower():
                     self.msg_writer.write_help_message(event['channel'])
@@ -99,7 +99,7 @@ class RtmEventHandler(object):
                     self.msg_writer.write_joke(event['channel'])
                 if re.search('who\'?s that pokemon', msg_txt):
                     self.msg_writer.write_whos_that_pokemon(event['channel'])
-                if re.search(' ?(Z|z)ac it\'?s', msg_txt):
+                if re.search(' ?(B|b)olton it\'?s', msg_txt):
                     self.msg_writer.write_pokemon_guessed_response(event['channel'], event['user'], msg_txt)
                 if 'attachment' in msg_txt:
                     self.msg_writer.demo_attachment(event['channel'])

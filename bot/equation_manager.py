@@ -6,7 +6,7 @@ class EquationManager(object):
 
 		tokens = equation.split()
 		if(len(tokens)!= 3):
-			return "Ask me to solve an equation by saying 'zac solve <equation>'"
+			return "Ask me to solve an equation by saying 'Bolton solve <equation>'"
 
 		try:
 			return "The answer is "+str(eval(tokens[2]))+"!"
