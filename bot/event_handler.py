@@ -50,7 +50,7 @@ class RtmEventHandler(object):
 
             msg_txt = event['text']
 
-            if re.search('qbot', msg_txt.lower()):
+            if re.search('always', msg_txt.lower()):
                 self.msg_writer.write_no_qbot(event['channel'])
 
             if self.is_loud(msg_txt):

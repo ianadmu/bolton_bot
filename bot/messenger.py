@@ -271,9 +271,9 @@ class Messenger(object):
         
     def write_marry_me(self, channel_id):
         self.clients.send_user_typing_pause(channel_id)
-        responses = ['OKAY! :ring:', 'Ummm, how \'bout no.', 'Shoot I would...if you were :kiera:', '_le shrug_ \'k.',
+        responses = ['OKAY! :ring:', 'Ummm, how \'bout no.', 'Shoot I would...if you were :zacefron:', '_le shrug_ \'k.',
                 'R-Really? Okay, I shall be your ~bride~ husband from now on!!', 'Sorry but I\'m already married to my job.',
-                'Sorry, but I\'m already married to :nicole:', 'HOW DO I KNOW YOU WON\'T CHEAT ON ME WITH QBOT?!??',
+                'Sorry, but I\'m already married to :nicole:', 'HOW DO I KNOW YOU WON\'T CHEAT ON ME WITH IAN?!??',
                 '_le HELLS YES!_', 'Sorry, but you are human, and I am a mere bot. It could never work out between us...',
                 ':musical_note: _IF YOU LIKE IT THEN YOU SHOULDA PUT A RING ON IT_ :musical_note:', 'No. Never. Nope. Nu-uh.']
         txt = '{}'.format(random.choice(responses))
