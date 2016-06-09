@@ -24,16 +24,16 @@ class TimeTriggeredEventManager(object):
     def trigger_ping(self, day, hour, minute, second):
         random_custom_emoji = self.clients.get_random_emoji()
         msg = 'Ping on ' + day + ' ' + str(hour)  + ':' + str(minute) + ':' + str(second) + ' :' + str(random_custom_emoji) + ':' 
-        self.clients.send_time_triggered_msg('#zacefron-testing', msg)
+        self.clients.send_time_triggered_msg('#bolton-testing', msg)
 
     def trigger_method_log(self, method_name):
         msg = 'Called: {}'.format(method_name)
-        self.clients.send_time_triggered_msg('#zacefron-testing', msg)
+        self.clients.send_time_triggered_msg('#bolton-testing', msg)
 
     def trigger_startup_log(self, day, hour, minute, second):
         random_custom_emoji = self.clients.get_random_emoji()
         msg = 'I came back to life on ' + day + ' ' + str(hour)  + ':' + str(minute) + ':' + str(second) + ' :' + str(random_custom_emoji) + ':' 
-        self.clients.send_time_triggered_msg('#zacefron-testing', msg)
+        self.clients.send_time_triggered_msg('#bolton-testing', msg)
 
     def trigger_random(self):
         channels = ['heliwolves', 'spamalot', 'random']
@@ -62,12 +62,12 @@ class TimeTriggeredEventManager(object):
 
     def trigger_wine_club(self):
         tag_users = ['channel', 'here']
-        msg = 'WINE CLUB IN THE LOUNGE :wine_glass: :wine_glass: :wine_glass: :wine_glass: :wine_glass:'
+        msg = 'Dancing time!! :wine_glass: :wine_glass: :wine_glass: :wine_glass: :wine_glass:'
         txt = '<!{}> {}'.format(random.choice(tag_users), msg) 
-        self.clients.send_time_triggered_msg('#heliwolves-announce', txt)
+        self.clients.send_time_triggered_msg('#boltonsexybutt-co', txt)
 
     def trigger_drunk_phrase(self):
-        channels = ['heliwolves', 'spamalot', 'random']
+        channels = ['boltonsexybutt-co', 'spamalot', 'random']
         channel = '#{}'.format(random.choice(channels)) 
         random_custom_emoji = self.clients.get_random_emoji()
         drunk_comments_file = open(os.path.join('./resources', 'drunk_comments.txt'), 'r')
@@ -77,17 +77,17 @@ class TimeTriggeredEventManager(object):
 
     def trigger_weather(self):
         response = WeatherController.get_weather()
-        self.clients.send_time_triggered_msg('#zacefron-testing', response)
+        self.clients.send_time_triggered_msg('#bolton_weather', response)
 
     def trigger_945(self):
         random_custom_emoji = self.clients.get_random_emoji()
         tag_users = ['channel', 'here']
         kip_msgs = ['@945', '945!', '#945', ':paw_prints: 945!', '~945~', ':horse: 945! giddyup', '945! :heart:', '945! :sweet_potato:', '945!........', '945 time', '945 quickie', '945 o\'clock', '945! :sheep: :panda_face: :slowpoke:', '945! :boom:', ':eggplant: 945.', '945 :coffee:', '_le 945_', '_le fast 945_']
         txt = '<!{}> {} :{}:'.format(random.choice(tag_users), random.choice(kip_msgs), random_custom_emoji) 
-        self.clients.send_time_triggered_msg('#heliwolves-announce', txt)
+        self.clients.send_time_triggered_msg('#boltonsexybutt-co', txt)
         digg_options = ['edition', 'tech', 'technology', 'computer', 'computers', 'fun', 'neowin', '', 'trending', 'programmer']
         digg_msg = '/digg {}'.format(random.choice(digg_options))
-        self.clients.send_time_triggered_msg('#zacefron-testing', digg_msg)
+        self.clients.send_time_triggered_msg('#boltonsexybutt-co', digg_msg)
 
     def trigger_mochaccino(self):
         tag_users = ['channel', 'here']
