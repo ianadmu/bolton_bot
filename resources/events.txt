@@ -64,7 +64,7 @@
 			"Triggers": {
 				"Words": ["toast"]
 			},
-			"Responses": ["Never Forget :Leontoast:"],
+			"Responses": ["Never Forget :leontoast:"],
 			"Sender": "Leontoast"
 		},
 
@@ -85,10 +85,11 @@
 
 		{
 			"Triggers": {
-				"Words": ["garret", "gurrit"]
+				"Words": ["always"]
 			},
-			"Responses": ["You ducker, can you not count to two?"],
-			"Sender": "gurritt"
+			"Responses": [
+				"always..." , "ay sus" ],
+			"Sender": "no"
 		},
 
 		{
