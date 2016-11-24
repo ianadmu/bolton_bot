@@ -162,9 +162,9 @@ class TimeTriggeredEventManager(object):
                      ":sunny: Good morning", "Where have you been. MORNING"]
         txt = '{}! :{}:'.format(random.choice(responses), self.get_emoji())
         self.msg_writer.send_message_as_other(
-            txt, 'random', 'bolton', ':sunglasses:'
+            txt, 'boltonsexybutt-co', 'bolton', ':sunglasses:'
         )
-        # self.send_message(txt, 'random')
+        # self.send_message(txt, 'boltonsexybutt-co')
 
     def trigger_markov(self):
         try:
@@ -197,14 +197,14 @@ class TimeTriggeredEventManager(object):
                ":wine_glass: :wine_glass: :wine_glass:")
         txt = '<!{}> {}'.format(random.choice(tags), msg)
         self.msg_writer.send_message_as_other(
-            txt, 'random', 'bolton', ':wine_glass:'
+            txt, 'boltonsexybutt-co', 'bolton', ':wine_glass:'
         )
 
     def trigger_random_phrase(self):
         if random.random() < 0.02:
             comment = self.random_manager.get_response()
             txt = '{} :{}:'.format(comment, self.get_emoji())
-            self.send_message(txt, 'random')
+            self.send_message(txt, 'boltonsexybutt-co')
             self.trigger_method_log('wine club')
 
     def trigger_weather(self):
@@ -214,7 +214,7 @@ class TimeTriggeredEventManager(object):
     def trigger_tuesday(self):
         txt = "DON'T FORGET IT'S TUESDAY _ALLL_ DAY TODAY"
         self.msg_writer.send_message_as_other(
-            txt, 'random', 'bolton', ':rolled_up_newspaper:'
+            txt, 'boltonsexybutt-co', 'bolton', ':rolled_up_newspaper:'
         )
 
     def trigger_945(self):
@@ -227,9 +227,9 @@ class TimeTriggeredEventManager(object):
                     '_le fast 945_']
         txt = '{} :{}:'.format(random.choice(kip_msgs), self.get_emoji())
         self.msg_writer.send_message_as_other(
-            txt, 'random', 'bolton', ':boltonefron:'
+            txt, 'boltonsexybutt-co', 'bolton', ':boltonefron:'
         )
-        # self.send_message(txt, 'random')
+        # self.send_message(txt, 'boltonsexybutt-co')
 
     def trigger_mochaccino(self):
         msgs = ['The mochaccino tastes _amazing_ this morning!',
@@ -250,7 +250,7 @@ class TimeTriggeredEventManager(object):
                 '_le mochaccino_']
         txt = '{} :coffee:'.format(random.choice(msgs))
         self.msg_writer.send_message_as_other(
-            txt, 'random', 'bolton', ':coffee:'
+            txt, 'boltonsexybutt-co', 'bolton', ':coffee:'
         )
 
     def trigger_timed_event(self):
