@@ -127,7 +127,7 @@ class TimeTriggeredEventManager(object):
 
     def trigger_random_markov(self):
         if random.random() < 0.15:
-            channel_id = self.channel_manager.get_channel_id('random')
+            channel_id = self.channel_manager.get_channel_id('boltonsexybutt-co')
             now_timestamp = float(time.time())
             response = self.clients.get_message_history(channel_id, 1)
             if 'messages' in response:
@@ -145,7 +145,7 @@ class TimeTriggeredEventManager(object):
                         ):
                             try:
                                 txt = str(self.markov_chain)
-                                self.send_message(txt, 'random')
+                                self.send_message(txt, 'boltonsexybutt-co')
                                 self.trigger_method_log('random markov')
                             except Exception:
                                 err_msg = traceback.format_exc()
