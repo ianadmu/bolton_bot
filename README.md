@@ -11,8 +11,8 @@ Visit [Beep Boop](https://beepboophq.com/docs/article/overview) to get the scoop
 * You have sufficient rights in your Slack team to configure a bot and generate/access a Slack API token.
 
 ## Usage
-
-### Run locally
+asd
+### Run locallyy
 Install dependencies ([virtualenv](http://virtualenv.readthedocs.org/en/latest/) is recommended.)
 
 	pip install -r requirements.txt

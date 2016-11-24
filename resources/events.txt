@@ -1,0 +1,467 @@
+{
+	"Events": [{
+			"Triggers": {
+				"Words": ["shit", "duck", "piss", "cunt", "cocksucker", "motherducker", "tits", "fart", "turd", "shitstain", "twat", "horseshit"],
+				"Emoji": ["middle_finger", "reversed_hand_with_middle_finger_extended"]
+			},
+			"Reactions": ["speak_no_evil", "nsfw"]
+		},
+
+		{
+			"Triggers": {
+				"Phrases": ["donger", "dong", "bulldog", "dongers"]
+			},
+			"Responses": ["ヽ༼ຈل͜ຈ༽ﾉ raise your dongers ヽ༼ຈل͜ຈ༽ﾉ"],
+			"Sender": "Ian"
+		},
+
+		{
+			"Triggers": {
+				"Phrases": ["____"]
+			},
+			"Responses": ["You are a monster"]
+		},
+
+		{
+			"Triggers": {
+				"Words": ["cold", "freezing", "snow"],
+				"Phrases": ["turn up the heat"]
+			},
+			"Reactions": [
+				"wind_blowing_face", "snowman", "snowman_without_snow", "snow_cloud", "snowflake", "fire"
+			]
+		},
+
+		{
+			"Triggers": {
+				"Words": ["sick"],
+				"Phrases": ["not feeling good", "under the weather"]
+			},
+			"Reactions": [
+				"ambulance", "pill", "face_with_head_bandage", "face_with_thermometer", "mask"
+			]
+		},
+
+		{
+			"Triggers": {
+				"Words": ["hair", "haircut"]
+			},
+			"Reactions": [
+				"haircut", "person_with_blond_hair"
+			]
+		},
+
+		{
+			"Triggers": {
+				"Words": ["money", "dollar", "bills", "dolla"]
+			},
+			"Reactions": [
+				"money_mouth_face", "heavy_dollar_sign", "moneybag", "dollar", "money_with_wings"
+			]
+		},
+
+		{
+			"Triggers": {
+				"Words": ["toast"]
+			},
+			"Responses": ["Never Forget :Leontoast:"],
+			"Sender": "Leontoast"
+		},
+
+		{
+			"Triggers": {
+				"Phrases": ["too many cooks"]
+			},
+			"Responses": ["https://www.youtube.com/watch?v=QrGrOK8oZG8"]
+		},
+
+		{
+			"Triggers": {
+				"Phrases": ["well played", "well met"]
+			},
+			"Responses": [">Well Met!"],
+			"Sender": "chuckle"
+		},
+
+		{
+			"Triggers": {
+				"Words": ["garret", "gurrit"]
+			},
+			"Responses": ["You ducker, can you not count to two?"],
+			"Sender": "gurritt"
+		},
+
+		{
+			"Triggers": {
+				"Words": [
+					"bomb", "knife", "explosive device", "blow up", "terrorism", "assassin", "roofie",
+					"poison", "anthrax", "hijack", "overthrow", "airstrike", "nuke", "missile", "kkk"
+				],
+				"Phrases": ["air strike", "nuclear meltdown", "coup d'etat"]
+			},
+			"Responses": [
+				"You have been added to the watch list. ?_?",
+				"Take your hands off your keyboard. You have been added to the watch list. ?_?",
+				"Get on the floor now, you have been added to the watch list! ?_?",
+				"Take caution with your words, friend. You have been added to the watch list. ?_?"
+			],
+			"Sender": "booom"
+		},
+
+
+		{
+			"Triggers": {
+				"Phrases": ["on the watchlist", "on the watch list"]
+			},
+			"Responses": [
+				"I'm sorry, that is classified information.",
+				"That information is classified.",
+				"You have insufficient clearance for access to that classified information.",
+				"The only person with clearance is Leon and she already knows.",
+				"You have been added to the watch list. ?_?"
+			],
+			"Sender": "no_good"
+		},
+
+
+		{
+			"Triggers": {
+				"Emoji": ["congaparrot"]
+			},
+			"Responses": [":congaparrot::congaparrot::congaparrot::congaparrot::congaparrot::congaparrot:", ":aussie_conga_parrot::aussie_conga_parrot::aussie_conga_parrot::aussie_conga_parrot::aussie_conga_parrot::aussie_conga_parrot:"],
+			"Sender": "parrot"
+		},
+
+		{
+			"Triggers": {
+				"Emoji": ["reverse_conga_parrot"]
+			},
+			"Responses": [":reverse_conga_parrot::reverse_conga_parrot::reverse_conga_parrot::reverse_conga_parrot::reverse_conga_parrot::reverse_conga_parrot:", ":aussie_reverse_conga_parrot::aussie_reverse_conga_parrot::aussie_reverse_conga_parrot::aussie_reverse_conga_parrot::aussie_reverse_conga_parrot::aussie_reverse_conga_parrot:"],
+			"Sender": "parrot"
+		},
+
+		{
+			"Triggers": {
+				"Words": ["----"]
+			},
+			"Responses": ["It's underscores Ian"]
+		},
+
+		{
+			"Triggers": {
+				"Words": ["_dying_", ":joy:"],
+				"Emoji": ["joy"]
+			},
+			"Reactions": ["joy", "Leontoast"],
+			"RateLimiter": 0
+		},
+
+		{
+			"Triggers": {
+				"Words": ["wiener"]
+			},
+			"Responses": ["I AM A WIENER!!! :eggplant: ...jk that's Steven",
+				"Steven is a wiener!!! :eggplant:"
+			],
+			"Sender": "eggplant"
+		},
+
+		{
+			"Triggers": {
+				"Phrases": ["duck this"]
+			},
+			"Responses": ["https://www.youtube.com/watch?v=5FjWe31S_0g"]
+		},
+
+		{
+			"Triggers": {
+				"Phrases": ["do it"]
+			},
+			"Reactions": ["just_do_it"]
+		},
+
+		{
+			"Triggers": {
+				"Phrases": ["just do it video"]
+			},
+			"Responses": ["https://www.youtube.com/watch?v=ZXsQAXx_ao0"],
+			"Sender": "just_do_it"
+		},
+
+		{
+			"Triggers": {
+				"Phrases": ["dont do it", "don't do it"]
+			},
+			"Responses": ["https://www.youtube.com/watch?v=mbre5NC_10c"]
+		},
+
+		{
+			"Triggers": {
+				"Words": ["coo"]
+			},
+			"Hash": true,
+			"Responses": ["Coo", "Coo", "Coo", "Coo", "Coo", "Coo", "Coo coo", "Caw Caw", "Chirp",
+				"CooOOoooOO", "Cee Chee Cee", "Caw", "Ouip Ouip", "Chika dee", "Chika dee dee dee", "CaCAAA",
+				"C-c-c-c-c-caaaaaaa~!", "Tweet", "Coocoocachoo", "Cookle doodle doo", "Coo", "Coo", "Coo", "Coo",
+				"Coo cooooOOOO cooo coo ca coooo coo", "Tweeeet", "Ca-CAWWWWWWWWW", "Coo", "Coo", "Coo coo", "Caw Caw", "Chirp",
+				"CooOOoooOO", "Cee Chee Cee", "Caw", "Ouip Ouip", "Chika dee", "Chika dee dee dee", "CaCAAA",
+				"Coo", "Caaaaw ca ca caaaa", "Coocoocachoo", "Coodle doodle doo", "Coo", "Coo", "Coo", "Coo", "Coo",
+				"Tweet", "Tweeeet", "Ca-CAWWWWWWWWW", "Coo", "Coo", "Coo coo", "Caw Caw", "Chirp", "Coo", "Coo", "Coo",
+				"CooOOoooOO", "Cee Chee Cee", "Caw", "Ouip Ouip", "Chika dee", "Chika dee dee dee", "CaCAAA",
+				"Coo - Coo Ca Chaa", "Caaaaw ca ca caaaa", "Coocoocachoo", "Coodle doodle doo", "Coo", "Coo", "Coo",
+				"Coo cooooOOOO cooo coo ca coooo coo", "Tweeeet", "cluck cluck cluck cluck cluck cluck cluckAAAAAAAW!", "I'm really a dove, you know",
+				"I'm going to grow up to be a swan", "*Insert bird noises here", "*flaps wings", "*pecks ground",
+				"* nibbles at neck", "* eats worm", "*twitches", "Coo Coo *Cough Coo", "Coo", "Coo", "Coo", "Coo", "Coo", "Coo",
+				"Coo", "Coo", "Coo", "Coo", "Coo", "Coo", "Coo", "Coo", "Coo", "Coo", "Coo", "Coo", "Coo", "Coo", "Coo",
+				"Brerererer", "Brerererer", "Brerererer", "Brerererer", "Brerererer", "Brerererer", "Brerererer"
+			],
+			"Sender": "parrot"
+		},
+
+		{
+			"Triggers": {
+				"Words": ["boyer"]
+			},
+			"Start": "_",
+			"End": "_",
+			"Responses": ["It was working upstairs--", "Idk why it's not working now", "Last time I taught this course it was working", "We do take these seriously.... at least my boss does",
+				"Last time I taught this course I didn't have to do this", "I'll have to update my notes", "This was working earlier", "Sorry I'm late", "Sorry the example wasn't working last class, it should be working now",
+				"........so that's basically what you'll need to do for assignment one", "[After 5 minutes of lecturing] Okay let's take a 10-minute break",
+				"*Shows up 15 minutes late", "*Takes 15 minutes to notice a raised hand", "This code came from a tutorial", "Looks like break-time [Leaves]"
+			],
+			"Sender": "boyer",
+			"RateLimiter": 5
+		},
+
+		{
+			"Triggers": {
+				"Phrases": ["thank you"],
+				"Words": ["thanks", "ty", "thank-you"]
+			},
+			"Named": true,
+			"Formatting" : {
+				"Format": "{Thanks}",
+				"Thanks": [
+					"No problem mon",
+					"Why, you're welcome my friend", "Don't mention it", "You're welcome", "It was a pleasure", 
+					"It was my pleasure", "No sweat", "Anytime", "_Le gratitude_ pleases me. :heart:", 
+					"No worries", "No no no, thank _you_"]
+			}
+		},
+
+		{
+			"Triggers": {
+				"Words": ["morning"]
+			},
+			"Reactions": [
+				"sunglasses", "city_sunrise", "sunrise_over_mountains", "sunrise", "partly_sunny_rain", 
+				"barely_sunny", "partly_sunny", "mostly_sunny", "sunny", "sun_with_face", "sunflower", "dark_sunglasses", "sunflower"
+			]
+		},
+
+		{
+			"Triggers": {
+				"Words": ["night"]
+			},
+			"Reactions": [
+				"stars", "bed", "city_sunset", "bridge_at_night", "night_with_stars", "sweet_potato"
+			]
+		},
+
+		{
+			"Triggers": {
+				"Emoji": ["sweet_potato"]
+			},
+			"Reactions": [
+				"sweet_potato"
+			]
+		},
+
+		{
+			"Triggers": {
+				"Emoji": ["ninja", "stalker", "ninja_cat"]
+			},
+			"Reactions": [
+				"ninja", "stalker", "ninja_cat"
+			]
+		},
+
+		{
+			"Triggers": {
+				"Words": ["tired", "sleepy", "sleep", "rest"]
+			},
+			"Reactions": [
+				"bed", "sleeping_accommodation", "zzz", "sleeping", "sleepy", "tired_face", "sweet_potato"
+			]
+		},
+
+		{
+			"Triggers": {
+				"Words": ["coin"]
+			},
+			"Named": true,
+			"Responses": ["HEADS", "TAILS"],
+			"Sender": "slot_machine"
+		},
+
+		{
+			"Triggers": {
+				"Words": ["roll"]
+			},
+			"Named": true,
+			"Responses": ["1", "2", "3", "4", "5", "6"],
+			"Sender": "slot_machine"
+		},
+
+		{
+			"Triggers": {
+				"Words": ["random"]
+			},
+			"Reactions": ["three"]
+		},
+
+		{
+			"Triggers": {
+				"Words": ["trick", "tricks"]
+			},
+			"Responses": ["http://i.imgur.com/XviGRE6.png"],
+			"Sender": "shittywizard"
+		},
+
+		{
+			"Triggers": {
+				"Words": ["hi", "hey", "hello", "sup"]
+			},
+			"Named": true,
+			"Formatting": {
+				"Format": "{Greeting} user_id!",
+				"Greeting": ["Hi", "Hello", "Nice to meet you", "Howdy", "Salutations"]
+			}
+		},
+
+		{
+			"Triggers": {
+				"Words": ["a+", "5/7", ":100:"],
+				"Emoji": ["100"]
+			},
+			"Reactions": ["100"]
+		},
+
+		{
+			"Triggers": {
+				"Words": ["feed", "hungry"]
+			},
+			"Formatting": {
+				"Format": "Here, for you {Edibles}",
+				"Edibles": [
+					":apple:", ":banana:", ":pear:", ":peach:", ":pineapple:",
+		            ":lemon:", ":watermelon:", ":grapes:", ":strawberry:", ":melon:",
+		            ":cherry:", ":tomato:", ":eggplant:", ":hot_pepper:", ":corn:",
+		            ":sweet_potato:", ":fries:", ":hamburger:", ":egg:",
+		            ":fried_shrimp:", ":meat_on_bone:", ":poultry_leg:",
+		            ":cheese_wedge:", ":bread:", ":hotdog:", ":pizza:", ":spaghetti:",
+		            ":taco:", ":burrito:", ":ramen:", ":stew:", ":sushi:", ":bento:",
+		            ":rice_ball:", ":rice:", ":rice_cracker:", ":oden:", ":dango:",
+		            ":shaved_ice:", ":ice_cream:", ":icecream:", ":cake:",
+		            ":birthday:", ":candy:", ":lollipop:", ":popcorn:",
+		            ":chocolate_bar:", ":doughnut:", ":cookie:", ":baby_bottle:",
+		            ":beetle:", ":spider:", ":cow:", ":pig:", ":bug:", ":snail:",
+		            ":tropical_fish:", ":fish:", ":blowfish:", ":sheep:", ":pig2:",
+		            ":rat:", ":rooster:", ":mushroom:", ":green_apple:", ":poop:"
+				]
+			},
+			"RateLimiter": 0
+		},
+
+		{
+			"Triggers": {
+				"Phrases": ["kill me"]
+			},
+			"Responses": ["BANG you're dead user_id :gun:"]
+		},
+
+		{
+			"Triggers": {
+				"Phrases": ["marry me"]
+			},
+			"Reactions": [
+				"wedding", "bride_with_veil", "ring"
+			],
+			"Named": true,
+			"Responses": [
+	            "OKAY! :ring:", "Ummm, how 'bout no.",
+	            "Shoot I would...if you were :Leon:", "_le shrug_ 'k.",
+	            "R-Really? Okay, I shall be your ~bride~ husband from now on!!",
+	            "Sorry but I'm already married to my job.",
+	            "Sorry, but I'm already married to :Leon:",
+	            "HOW DO I KNOW YOU WON'T CHEAT ON ME WITH QBOT?!??",
+	            "_le HELLS YES!_", "No. Never. Nope. Nu-uh.",
+	            "Sorry, but you are human, and I am a mere bot. It could never work out between us...",
+	            ":musical_note: _IF YOU LIKE IT THEN YOU SHOULDA PUT A RING ON IT_:musical_note:"
+			]
+		},
+
+		{
+			"Triggers": {
+				"Words": ["apologize", "apologise"]
+			},
+			"Named": true,
+			"Responses": [
+				"Please accept my deepest apologies.", "Forgive me!",
+				"My deepest apologies. I have been a bad bolton.",
+				"My goodness, am I just the worst or what!",
+				"Oh crackers, I've done it again :disappointed:",
+				"Would you forgive me if I showed you my abs?",
+				"I can't even begin to express the depths of my sorriness.",
+				"I've been a bad, bad Efron.", "Sorry :disappointed:", 
+				"This fellow is sorry. Very, very sorry.", "_Le oops._",
+				"I couldn't be sorrier :disappointed:", "#sorrynotsorry",
+				"Well I'm just the worst aren't I.", "Can you ever forgive me?",
+				"Er, sorry 'bout that. Guess I blew it.", "_Le wups._",
+				"sobsobsob", "_Le sorry._", "Eheheh, my bad.",
+				"Here, have this apology. I made it just for you. Love bolton.",
+				"What can I do to earn your forgiveness?", "I beg of thee, forgive me!",
+				"I hate that I have disappointed you. I will try and be better next time.",
+				"Aw man, blew it again.", "Well shit, that didn't go right.",
+				"Sorry, friend. Please don't stay mad at me...",
+				"Please don't stay mad at these glorious abs...",
+				"Shall I ask for forgiveness in self-perpetuating perpetuity?",
+				"To err is human. Sorry for my humanness.", "Aw dangit. Muh bad.",
+				"I hope you can find it in your heart to forgive me.",
+				"Please forgive me - I didn't mean to let you down.",
+				"Is it too late now to say Sorry?", "I dun ducked up. Sorry bruh.",
+				"I know that I let you down... Is it too late to say I'm sorry now?",
+				"Muh bad, yo. Didnd't mean to mess it up."
+			]
+		},
+
+		{
+			"Triggers": {
+				"Phrases": ["any news", "any news?", "good news everyone"],
+				"Words": ["farnsworth"]
+			},
+			"Named": true,
+			"Responses": ["Shut up, friends!", "Ah yes. GET LOST.", "If anybody wants me, I'll be in the angry dome.", "There's no safer occupation than mining. Especially when you're on a snowball whipping through space at a million miles an hour. Whoo whoo whoo whoooo! Safe!", "Oh, yes, madness runs in our family. Some people even called ME mad? And why? Because I dared to dream of creating a race of atomic monsters... atomic supermen with octagonal bodies that suck blood...", "SWEET ZOMBIE JESUS", "Your grandmother can burn in hell!", "Bad news nobody.", "Oooh a lesson in not changing history from Mr. I'm-My-Own-Grandpa...", "I can't marry you, for you see, I'm dying, cough, then fall over dead.", "Oh, don't worry Fry! I too once spent a nightmarish time in a robot asylum. But now it's nearly over. So long!", "Oh dear, they'll be killed on our doorstep. And there's no trash pickup till January 3rd.", "With my last breath, I curse Zoidberg.", "I have a grave announcement. Anyone with a weak heart had better leave now. Goodbye!", "Good news! There's a TV report on with some very bad news.", "Sure, everyone's always in favor of saving Hitler's brain, but put it in the body of a great white shark... oooooh, suddenly you've gone too far!", "My hip hurts! I'm in the middle of cooking a turkey! I have warranty cards to fill out! I'm not just making excuses! Alright I'll go!", "Well, I _am_ already in my pyjamas.", "I move that your cat STINKS and is UGLY!", "Why? _Why_ ? Why didn't I break his legs?", "Has everyone taken their suppository?", "Everybody! Get into bed with me!", "Thank you for your sympathy, talking square of linoleum...", "You take one nap in a ditch in the park, and people start declaring you this and that!", "TELL THEM I HATE THEM!", "Yes, we all miss our loved ones and gasses...", "It worked! Eat it, everyone who's never won a Noble Prize! And that includes you Amy.", "We tore the universe a new space-hole, all right, and now it's clenching shut.", "Oh dear. She's caught in an infinite loop, and he's an idiot. Well, that's love for you.", "I had a few beers but I'm cool to drive.", "I only have a few years to live - I don't want to spend them dead!", "I'm as spry and free as ever. See? I only broke _one_ ankle!", "Buddha, Zeus, God! One of you guys do something! ... Help, Satan! You owe me!", "Oh, getting the brain out was the easy part. The hard part was getting the brain _out._", "_Get a job!_", "I demand the floor!", "Good news; it's a _suppository!_", "The devil take this predictable colon!", "Good news everyone! A few years back I tried loggin onto AOL.... and it just went through!", "Bad news everyone. You're not good enough to go on your next mission.", "Your insides will boil out of your eye sockets like a science fair volcano!", "Your grandmother can go to hell!", "It's cheaper just to have you die."]
+		},
+
+		{
+			"Triggers": {
+				"Phrases": ["mmm velour"],
+				"Words": ["brannigan"]
+			},
+			"Named": true,
+			"Responses": ["Mmmm, _velour_", "When I'm in command, son, every mission is a suicide mission.", "Something's very wrong here, and yet a little bit right.", "Leela! We meet again! Except this time _I'm_ the one criticizing the sausage!", "I am the man with no name. Zapp Brannigan, at your service.", "Brannigan's law is like Brannigan's love: hard and fast.", "As a gentleman, I must warn you: If you so much as glance at another woman, I'll be all over Leela like a fly on a pile of very seductive manure.", "Fire all weapons and open a hailing frequency for my victory yodle.", "If we can hit that bull's-eye, the rest of the dominoes will fall like a house of cards.Checkmate.", "We'll write our _own_ bible. With less Sodom and more Gomorrah.", "Kif, crouch down and shield my thighs from the cold, for God's sake.", "Don't be such a chicken, Kif. Teenagers all smoke and they seem pretty on the ball.", "Now remember, Kif. The quickest way to a girl's bed is through her parents. Have sex wth them and you're in.", "My strategy is so simple an idiot could have devised it!", "So, you thought you could conquer us so easily, eh? Nice job. We surrender."]
+		},
+
+		{
+			"Triggers": {
+				"Words": ["bender"],
+				"Phrases": ["bend it"],
+				"Emoji": ["bender", "benderr"]
+			},
+			"Named": true,
+			"Responses": ["Game's over, losers! I have all the money. Compare your lives to mine and then kill yourselves.", "Bite my colossal metal ass!", "I don't need to drink, I can quit anytime I want!", "I don't have emotions and sometimes that makes me very sad.", "I say the world must learn our peaceful ways... _by force!_", "Lick my frozen metal ass!", "Our love isn't any different from yours. Except it's hotter 'cause _I'm_ involved.", "I'm so embarassed I wish everybody else was dead.", "My life, and by extension everyone else's, is meaningless.", "You've succeeded in convincing me life is worth living by showing how bad my funeral will suck.", "Bite my red-hot glowing ass!", "Should I get one $300 hooker or three hundred $1 hookers?", "Aw, are you still hung up on Whatshername? _Move on already!_", "Bite my glorious golden ass!", "Guess I'll do what I always do when I run out of booze. *_wailing sobs_*", "I'm so sorry guys. I never meant to hurt you - just to destroy everything you ever believed in.", "Have you ever tried simply turning off the TV, sitting down with your children, and hitting them?", "I bet I can eat nachos and go to the bathroom _at the same time!_", "Bite my shiny metal ass!", "This is the worst kind of discrimination there is. _The kind against me!_", "I guess if you want children beaten, you have to do it yourself.", "Hahahaha. Oh wait you're serious. Let me laugh even harder.", "I'll build my _own_ theme park. With black jack, and hookers. In fact, forget the park!", "Hey sexy mama. Wanna kill all humans?", "You know what cheers me up? Other people's misfortune.", "Anything less than immortality is a complete waste of time.", "'Blackmail' is such an ugly word. I prefer 'extortion'. The 'x' makes it sound cool.", " _Fry cracked corn and I don't care / _Leela cracked corn I still don't care / Bender cracked corn and he is greeeeeeat / Take that you stupid corn_ :musical_note:", "Oh. Your. God.", "You're a pimple on society's ass and you'll never amount to anything.", "Afterlife?! If I thought I had to live another life, I'd kill myself right now!", "Would you kindly shut your noise hole?", "_Shut up and get to the point!_", "So sober... so weak...", "This is quite a shock! On the other hand, it's not surprising in the least.", "I'll stay here and be in charge of not dying.", "Once again, television has given me a reason to live!", "But I don't like things that are scary and painful!", "I support and oppose many things, but not strongly enough to pick up a pen.", "Life is hilariously cruel.", "Take that, Beethoven, you deaf bastard!", "Everybody's a jerk! You, me, this jerk...", "Tempers are wearing thin. Let's hope some robot doesn't kill everybody.", "Let's face it, comedy's a dead art form. Tragedy - now that's funny.", "What kind of party is this!? There's no booze and only one hooker.", "What do you mean 'we', flesh-tube?!", "Bite my freshly-molted, blubber-filled ass.", "No robot cow should have to be milked by a milking machine! And no milking machine should have to milk a robot cow!", "It's not just safe, it's 40% safe!", "Thanks to you, I went on a soul-searching journey. I hate those!", "3rd place? This is the greatest injustice Germany has ever committed!", "Fry, some of us have real problems! I just learned there are people with fancier sausage meats than me!", "Oh, so now I'm your last resort booty call, huh? Okay, let's go!", "I'm bored. Let's drink!", "Now hold on, I feel like I was chased by a mushroom recently.", "I wanna come too! ... To prove I can put divisive partisan politics aside to participate in a break-in!", "Would it cheer you up if I punched Fry in the groin? Cause I'll do it, regardless.", "Oh wow, I can't believe how stupid I used to be and you still are.", "In order to fix your leaky roof I'll need to spend two or three hours down here in the wine cellar.", "You, sir, have defaced a national treasure! I demand you restore my buttocks to their former glory.", "Congratulations, Fry, you snagged the perfect girlfriend. Amy's rich, she's probably got other characteristics.", "On the count of three, you will awaken feeling refreshed, as if Futurama were never cancelled by idiots and then brought back by bigger idiots. One...two...", "I hate partying. If only I didn't have so much crunk in my ba-dun-ka-dunk!", "From now on, you guys'll do all the work while I sit on the couch and do nothing.", "I'll miss you, Leela. I know you're just a carbon-based life form but I'll always think of you as a big pile of titanium.", "In the event of an emergency my ass can be used as a flotation device.", "'m Bender, baby! Please insert liquor.", "Ah, Leela's experiencing the greatest joy a woman can feel: Worshipping some low-life jerk.", "Crippling pain? That's not covered by my insurance fraud!", "Let's commence preparations for rumbling!"],
+			"Sender": "bender"
+		}
+	]
+}

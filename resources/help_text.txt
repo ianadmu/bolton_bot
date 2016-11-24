@@ -1,0 +1,29 @@
+_Hint: sometimes you need to say my name for me to respond!_
+> `Hi` - I'll greet back, i don't bite. :wave:
+> `Joke` - I'll tell you one of my finest jokes :laughing:
+> `Weather` - Let me tell you the weather in Winnipeg. :rainbow:
+> `I'm sad` - Maybe I can cheer you up. :wink:
+> `Sort me` - I'll sort you into a Hogwarts house!
+> `Apologize` - Sometimes I make mistakes. Tell me when I do so I can apologize. :bow:
+> `Thanks!` - I also like to be appreciated :innocent:
+> `Solve <equation>` - Math sucks. I can help! :nerd_face:
+> `Sass <name>` - I'll be sure to sass <name> until the sun burns out. :smiling_imp:
+> `Riri <work>` - WORK WORK WORK WORK WORK",
+> `Who's that pokemon?` - Are you a pokemon master? :slowpoke:
+> `Explain/Why` - I'll explain what's going on :reginageorge:
+> `French <phrase>` - I know flawless French and I'll translate! :bombardier:
+> `Marry me` - ...Are you going to propose to me?? _Le gasp_ 
+> `I love you` - ...Do you really!? :heart:
+> `Sweetpotato <name>` - Sometimes you just need a :sweet_potato:
+> `Boyer` - I'll give you one of boyer's wise quotes :nerd_face:
+> `Wiener` - You wanna know who is a wiener? I'll tell you :eggplant:
+> `Draw me` - I am _le best artist_ :art:
+> `<pokemon> I choose you!` - Are you going to be the very best? :yourturn:
+> `Encourage <name>` - Let me help <name> get back on track. :grinning:
+> `Feed me` - Have some food courtesy of moi :banana:
+> `duck this` - Don't worry I got just the video. :+1:
+> `Just Do it Video` - Need some motivation? :just_do_it:
+> `Markov` - I like to mix things up a bit too :lips:
+> `Coo` - Want a pigeon sound? Pigeon Mode is for you! :parrot:
+> `XKCD` - Want an XKCD comic? Type it's number, or get the latest one
+> `TicTacToe` - Want to play TicTacToe? See also `TicTacToe help`

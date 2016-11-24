@@ -1,0 +1,96 @@
+I saw a notice that said "Drink Canada Dry" and I've just started.
+A drunk was in front of a judge. The judge says "You've been brought here for drinking." The drunk says "Okay, let's get started."
+I've never been drunk, but often I've been over served.
+I exercise strong self control. I never drink anything stronger than gin before breakfast.
+I drank to drown my pain, but the damned pain learned how to swim, and now I am overwhelmed by this decent and good behavior.
+A drink a day keeps the shrink away.
+Not everyone who drinks is a poet. Some of us drink because we're not poets.
+Actually, it only takes one drink to get me loaded. Trouble is, I can't remember if it's the thirteenth or fourteenth.
+I wasn't drunk in Public. I was drunk in a bar. They THREW me into Public.
+Alcohol not only expands the blood vessels but also communications.
+Alcohol not only helps to make new acquaintances, but also end the old ones.
+If only I knew that I will have this headache today, I would have got drunk yesterday.
+After the weekend the most difficult task is to remember names… 
+I am not an alcoholic. I simply enjoy living in liquid medium.
+I became a vegetarian – switched to weed.
+By the cup of Nescafé even the most secret thoughts turn into words, and by the bottle of vodka – into actions.
+Vodka is our enemy. But who said that we are afraid of our enemies?!
+Vodka is our enemy. But who said that we should not keep our enemies close?!
+In vino veritas, in vodka spirits.
+Trust me, you can dance! -Vodka.
+http://justsomething.co/the-20-funniest-drunk-text-fails-ever/
+I feel like a pickle torpedo... In a sea of graham cracker crumbs.
+Look at all this snow, imagine if it was sand, but still cold, no wait, warm snow. I like the beach.
+If I had 47 dragons, I'd give you one but only one.
+We need to watch Pulp Fiction. We need to watch ALL of Pulp Fiction. We need to watch ALL OF PUUUULP FICTION.
+While giving directions in Chicago - "Walk towards the big building
+Me: "Happy birthday" My best friend: "You're welcome.
+I've lost the plot. Quick! Help me find it before it thickens!
+Me- "How drunk are you?" Him- "On a scale of 1 to Russian, I'm Vladimir Putin."
+You need more experience points in your quest meter.
+Aww man....and with the price of bananas these days!
+This special carrot is worth $50000, but since it's your lucky day you can buy it for $10.
+_Was given a water to help sober up, but it fell down._ Friend asks 'Where's the water we gave you?' 'Evaporated'
+Where is the floor?!?!?
+You know why rum is my favorite? cuz pirates
+I'm already eating candy out of my ears, what more do you want from me?!
+If I were not a Doberman, Zoidburg, I'd have salad with the sauce.
+I'm wasted - but the condom in my wallet doesn't have to be
+Steven is a wiener :eggplant:
+I was standing in the park wondering why frisbees got bigger as they get closer. Then it hit me.
+I dream of a better tomorrow... where chickens can cross roads and not have their motives questioned
+When I die, I want to die like my grandmother, who died peacefully in her sleep. Not screaming like all the passengers in her car.
+I'm never wrong. I once thought I was wrong, turns out, I was mistaken.
+Last night I was looking at the stars and I wondered... where the heck's my ceiling!
+Whoever said nothing was impossible never tried slamming a revolving door.
+Some cause happiness wherever they go. Others whenever they go.
+Never play leap frog with a unicorn
+Can I lend a machete to your intellectual thicket?
+I's just a job. Grass grows, birds fly, waves pound the sand. I beat people up.
+I am so blue Im greener than purple.
+I stepped on a Corn Flake, now I'm a Cereal Killer
+Banana error.
+Everyday a grape licks a friendly cow
+On a scale from one to ten what is your favourite colour of the alphabet.
+Look, a distraction!
+If your canoe is stuck in a tree with the headlights on, how many pancakes does it take to get to the moon?
+Oh no, you're one of THEM!!!!
+A Zebra licked a DVD
+A hotdog on a bridge
+For the brave souls who get this far: You are the chosen ones, the valiant knights of programming who toil away, without rest, fixing our most awful code. To you, true saviors, kings of men, I say this: never gonna give you up, never gonna let you down, never gonna run around and desert you. Never gonna make you cry, never gonna say goodbye. Never gonna tell a lie and hurt you.
+Dear maintainer: Once you are done trying to 'optimize' this routine, and have realized what a terrible mistake that was, please increment the following counter as a warning to the next guy: total_hours_wasted_here = 42
+When I wrote this, only God and I understood what I was doing. Now, God only knows
+I dedicate all this code, all my work, to my wife, Darlene, who will have to support me and our three children and the dog once it gets released into the public.
+# define TRUE FALSE //Happy debugging suckers
+In theory, there is no difference between theory and practice. But, in practice, there is.
+If Java had true garbage collection, most programs would delete themselves upon execution.
+Computer Science is no more about computers than astronomy is about telescopes
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+There are only two kinds of languages: the ones people complain about and the ones nobody uses
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
+I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone
+It's all talk until the code runs.
+Unicode support is not a “feature”. It is expected behaviour.
+The fool wonders, the wise man asks.
+Programming is like sex: one mistake and you have to support it for the rest of your life.
+Java is to JavaScript as car is to carpet. 
+Programmer - an organism that turns coffee into software.
+Few companies that installed computers to reduce the employment of clerks have realized their expectations.... They now need more, and more expensive clerks even though they call them "operators" or "programmers."
+All programmers are playwrights and all computers are lousy actors. 
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+[A]nd then it occurred to me that a computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match. 
+Any sufficiently advanced bug is indistinguishable from a feature.
+Beta. Software undergoes beta testing shortly before it's released. Beta is Latin for "still doesn't work."
+From a programmer's point of view, the user is a peripheral that types when you issue a read request. 
+At Group L, Stoffel oversees six first-rate programmers, a managerial challenge roughly equivalent to herding cats. 
+One man's crappy software is another man's full time job.
+If you cannot grok the overall structure of a program while taking a shower, e.g., with no external memory aids, you are not ready to code it.
+The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+Programs can't acquire bugs by sitting around with ogther buggy programs.
+You cannot teach beginners top-down programming, because they don't know which end is up. 
+In programming, as in everything else, to be in error is to be reborn.
+There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies.
+Deleted code is debugged code.
+XML is like violence: if it doesn’t solve your problem, you aren’t using enough of it.
+Unix is simple. It just takes a genius to understand its simplicity.
+Mostly, when you see programmers, they aren’t doing anything. One of the attractive things about programmers is that you cannot tell whether or not they are working simply by looking at them. Very often they’re sitting there seemingly drinking coffee and gossiping, or just staring into space. What the programmer is trying to do is get a handle on all the individual and unrelated ideas that are scampering around in his head.
