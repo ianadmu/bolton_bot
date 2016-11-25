@@ -7,7 +7,7 @@ DONT_DELETE = (
     "i came back to life on|winnipeg is currently|loud messages|erased"
 )
 
-TEAM_MATES = "Leon|Ian|Leon|ian|garrett|malcolm|gurritt|Leontoast"
+TEAM_MATES = "bolton|leon|ian|leontoast"
 
 USER_TAG = re.compile("<@.*")
 CHANNEL_TAG = re.compile("<!.*")

@@ -168,7 +168,7 @@ class TimeTriggeredEventManager(object):
 
     def trigger_markov(self):
         try:
-            self.msg_writer.send_message(str(self.markov_chain), 'markov')
+            self.msg_writer.send_message(str(self.markov_chain), 'boltonsexybutt-co')
         except Exception:
             err_msg = traceback.format_exc()
             logging.error('Unexpected error: {}'.format(err_msg))

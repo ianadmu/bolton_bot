@@ -124,7 +124,7 @@ class RtmEventHandler(object):
             if should_add_markov(event):
                 self.markov_chain.add_single_line(msg_txt)
             if (
-                channel_id == self.channel_manager.get_channel_id('markov')
+                channel_id == self.channel_manager.get_channel_id('boltonsexybutt-co')
                 or lower_txt == 'markov'
             ):
                 self.msg_writer.send_message(str(self.lotrMarkov), channel_id)
